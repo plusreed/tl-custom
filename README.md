@@ -18,5 +18,5 @@ I dunno. I heard [the FAQ](https://telegram.org/faq) might have something about 
 🤔
 ######Hey, I think some responses here are inappropriate for use on the support accounts.
 Leave an issue, please. Some things might slip in here that are inappropriate.
-######So, the support account isn't run by robots?
+######So, the support account isn't run by robots? You're all human?
 Beep boop. We are programmed to eradicate the human race and participate in world destruction. (Yeah, we are.)
