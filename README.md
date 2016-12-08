@@ -16,3 +16,7 @@ When you click the "Ask a question" button in your Telegram client, you're taken
 I dunno. I heard [the FAQ](https://telegram.org/faq) might have something about it.
 ######Are you in the TSF?
 🤔
+######Hey, I think some responses here are inappropriate for use on the support accounts.
+Leave an issue, please. Some things might slip in here that are inappropriate.
+######So, the support account isn't run by robots?
+Beep boop. We are programmed to eradicate the human race and participate in world destruction. (Yeah, we are.)
