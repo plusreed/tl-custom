@@ -1,1 +1,5 @@
+{URL}
+https://github.com/plusreed/tl-custom/raw/master/tl_custom_en.txt
 
+{COMMENT}
+Some creative and witty comment here.
