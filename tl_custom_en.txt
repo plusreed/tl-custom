@@ -3,3 +3,30 @@ https://github.com/plusreed/tl-custom/raw/master/tl_custom_en.txt
 
 {COMMENT}
 Some creative and witty comment here.
+
+{COMMENT}
+=====================
+TEMPLATES BEGIN HERE
+=====================
+
+{QUESTION}
+Are you a robot?
+{COMMENT}
+This is a little silly, but it works.
+Please suggest more keys here, I'm out of ideas.
+{KEYS}
+robot
+war
+{VALUE}
+Beep boop. We're robots programmed to eradicate the human race and help in world destruction. I mean, we're human! I promise!
+
+{QUESTION}
+Thank you
+{KEYS}
+yw
+yourewelcome
+np
+noprob
+noproblem
+{VALUE}
+No problem. If you have any questions about Telegram in the future, feel free to contact us.
