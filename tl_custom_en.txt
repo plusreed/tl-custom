@@ -30,3 +30,56 @@ noprob
 noproblem
 {VALUE}
 No problem. If you have any questions about Telegram in the future, feel free to contact us.
+
+{COMMENT}
+Off-Topic templates, use these to, er, entertain...?
+
+{QUESTION}
+What is the meaning of life?
+{KEYS}
+mol
+meaningol
+meanlife
+lifemean
+meaningoflife
+42
+{VALUE}
+idk heard it was 42 or something like that
+
+{QUESTION}
+What is love?
+{KEYS}
+love
+wil
+whatil
+whatisl
+whatislove
+bdhm
+babydont
+{VALUE}
+Love? Robots can't comprehend emoti- I mean, baby don't hurt me... (whew, that was a close one)
+
+{COMMENT}
+These are "How-To" GIFs, coming pretty soon whenever I get the majority of them done.
+
+{QUESTION}
+How do I change my display name? (Desktop)
+{KEYS}
+changenamedgif
+cnamedgif
+namedgif
+{VALUE}
+wip
+
+{QUESTION}
+How do I change/set my username? (Desktop)
+{KEYS}
+usernamegifd
+unamegifd
+ungifd
+setungifd
+setunamegifd
+changeungifd
+changeunamegifd
+{VALUE}
+wip
