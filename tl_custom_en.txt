@@ -83,3 +83,13 @@ changeungifd
 changeunamegifd
 {VALUE}
 wip
+
+{QUESTION}
+How do I remove my username? (Desktop)
+{KEYS}
+rusernamegifd
+removeungifd
+rmunamegifd
+rmungifd
+{VALUE}
+wip
